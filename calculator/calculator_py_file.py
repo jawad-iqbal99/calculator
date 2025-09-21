@@ -4,9 +4,5 @@ class Calculator:
 
     def subtraction(self, a, b):
         return a - b
-
-# Example usage
-if __name__ == "__main__":
-    calc = Calculator()
-    print("Addition:", calc.addition(10, 5))
-    print("Subtraction:", calc.subtraction(10, 5))
+    def divide(self, a, b):
+        return a/b
