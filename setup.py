@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='jawad_calculator',
-    version='0.1.6',
+    version='0.1.7',
     packages=find_packages(),
     description='A simple calculator with addition and subtraction',
     author='Jawad Iqbal',
